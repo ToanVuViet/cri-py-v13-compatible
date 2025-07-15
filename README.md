@@ -1,6 +1,6 @@
 # CRI-Py v13 Compatible
 
-This repository provides a modified version of the original [CRI-Python-Lib](https://github.com/CommonplaceRobotics/CRI-Python-Lib) to support Commonplace Robotics arms running firmware **version 13 or lower**.
+This repository provides a modified version of the original to support Commonplace Robotics arms running firmware **version 13 or lower**.
 
 ## 🔧 Key Modifications
 
